@@ -3,7 +3,7 @@ import Swal from "sweetalert2";
 import Button from "../../components/Button";
 import Table from "../../components/Table";
 import { useNavigate } from "react-router-dom";
-import ApiKorbanBanjirService from "../../apis/services/KorbanBanjirService";
+import ApiKorbanBanjirService from "../../apis/services/korbanBanjirService";
 import AddKorbanBanjirModal from "../../components/AddKorbanBanjirModal";
 import EditKorbanBanjirModal from "../../components/EditKorbanBanjirModal";
 
